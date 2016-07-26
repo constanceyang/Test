@@ -21,6 +21,7 @@
     
     NSLog(@"this is branch 2 output content");
 
+    self.title = NSLocalizedString(@"This is the bug 001 fixed", @"");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
