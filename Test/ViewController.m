@@ -18,6 +18,8 @@
     [super viewDidLoad];
     
     self.view.backgroundColor = [UIColor yellowColor];
+    
+    NSLog(@"this is branch 1 output")'
     // Do any additional setup after loading the view, typically from a nib.
 }
 
