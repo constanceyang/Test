@@ -19,9 +19,7 @@
     
     self.view.backgroundColor = [UIColor yellowColor];
     
-    NSLog(@"this is branch 2 output content");
-
-    self.title = NSLocalizedString(@"This is the bug 001 fixed", @"");
+    NSLog(@"this is branch bug001");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
