@@ -17,8 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.view.backgroundColor = [UIColor yellowColor];
+    self.view.backgroundColor = [UIColor blueColor];
     
+    NSLog(@"this is season1 branch from bug2 and redColor then blueColor");
+
     NSLog(@"this is season1 branch");
     
     NSLog(@"this is content add from bug1");
