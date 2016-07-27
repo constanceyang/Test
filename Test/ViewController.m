@@ -19,7 +19,7 @@
     
     self.view.backgroundColor = [UIColor yellowColor];
     
-    NSLog(@"this is branch bug001");
+    NSLog(@"this is branch bug001 from constance origin macbook");
 
     // Do any additional setup after loading the view, typically from a nib.
 }
