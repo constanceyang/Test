@@ -19,7 +19,7 @@
     
     self.view.backgroundColor = [UIColor yellowColor];
     
-    NSLog(@"this is master");
+    NSLog(@"this is branch season3");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
