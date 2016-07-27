@@ -19,7 +19,7 @@
     
     self.view.backgroundColor = [UIColor yellowColor];
     
-    NSLog(@"this is branch1 content output");
+    NSLog(@"this is master");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
